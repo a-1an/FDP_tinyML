@@ -53,7 +53,7 @@ Before you begin, ensure you have the following:
    cd FDP_tinyML
 
 ## Resources
-
+- [Raspberry pi setup guide](https://udayshankarsingh.notion.site/udayshankarsingh/TinyML-Using-Raspberry-Pi-f524210308764d62b7764ceba05401a3)
 - [Edge Impulse Documentation](https://docs.edgeimpulse.com/)
 - [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
 - [Edge Impulse Community Forum](https://forum.edgeimpulse.com/)
